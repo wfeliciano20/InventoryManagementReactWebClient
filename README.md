@@ -13,6 +13,9 @@ This React + TypeScript + Vite application serves as the web frontend for a full
 - Secure authentication
 - Responsive design for all devices
 
+## Deployed Site link
+- https://inventorymanagementappwebclient-e0bqhmh8dmejfne3.canadacentral-01.azurewebsites.net/login
+
 ## Technical Stack
 
 - **Frontend**: React 19, TypeScript, Vite
