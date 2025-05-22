@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+        --color-primary-light: #f0e6ff,
+        --color-primary-base: '#e6e6fa',
+        --color-primary-dark: #4a0e86,
+        --color-button-primary: #7e57c2,
+        --color-button-primary-hover: #5e35b1,
+        --color-badge-bg: #d1c4e9,
+        --color-badge-text: #4a148c,
+        --color-delete-red: #d32f2f,
+        --color-delete-red-hover: #c62828,
+}
