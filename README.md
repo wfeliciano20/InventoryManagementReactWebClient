@@ -18,12 +18,12 @@ This React + TypeScript + Vite application serves as the web frontend for a full
 
 ## Technical Stack
 
-- **Frontend**: React 19, TypeScript, Vite
+- **Frontend**: React 19, TypeScript, Vite 
 - **State Management**: React Context API
 - **Tanstack Query Cache**: Data Fetching and Caching
 - **Merge Sort Utilization**: Sorting items alphabetically or numerically
-- **Styling**: CSS Modules
-- **Build**: Vite with HMR
+- **Styling**: TailwindCSS
+- **Build**: Vite 
 
 ## Development Setup
 
