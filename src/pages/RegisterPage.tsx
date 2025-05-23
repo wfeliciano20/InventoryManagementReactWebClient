@@ -44,7 +44,7 @@ const RegisterPage = () => {
 
       {/* Registration form container */}
       <div className="bg-white p-6 sm:p-8 rounded-xl shadow-xl w-full max-w-md">
-        <h2 className="text-2xl font-semibold text-purple-700 text-center mb-6">
+        <h2 className="text-2xl font-semibold text-purple-800 text-center mb-6">
           Create Account
         </h2>
 
