@@ -1,10 +1,10 @@
 /*
-    Why Merge Sort?  Always O(n log n) for consistent performance showcases 
-    Recursive divide-and-conquer approach
+    Why Merge Sort?  Always O(n log n) for consistent performance,
+    shows a Recursive divide-and-conquer approach
 
     For use cases (likely <100 items), even a basic sort would work, but
-    implementing Merge Sort will demonstrate: Understanding of algorithmic complexity(O(N))
-    Recursive problem solving
+    implementing Merge Sort will demonstrate: Understanding of algorithmic complexity
+    and Recursive problem solving
  */
 
 export const mergeSort = <T>(
