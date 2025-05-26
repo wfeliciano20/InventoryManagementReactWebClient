@@ -1,6 +1,6 @@
 # Full Stack Inventory Management System (React Frontend)
 
-This React + TypeScript + Vite application serves as the web frontend for a full stack inventory management system. It's part of a capstone project for CS499 that includes:
+This React + TypeScript + Vite application serves as the web frontend for a full-stack inventory management system. It's part of a capstone project for CS499 that includes:
 
 - Centralized Node.js backend server deployed on Azure
 - Native Android companion application
@@ -14,7 +14,7 @@ This React + TypeScript + Vite application serves as the web frontend for a full
 - Responsive design for all devices
 
 ## Deployed Site link
-- https://inventorymanagementappwebclient-e0bqhmh8dmejfne3.canadacentral-01.azurewebsites.net/login
+- https://inventorymanagementappwebclient-e0bqhmh8dmejfne3.canadacentral-01.azurewebsites.net/
 
 ## Technical Stack
 
